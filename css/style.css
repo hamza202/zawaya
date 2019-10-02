@@ -976,6 +976,9 @@ body.active-preloader-ovh {
 /************************** 
 * 11. recent project styles 
 ***************************/
+.welcome-img-box{
+    margin-top: 30px;
+}
 .recent-projects .single-recent-project:hover .img-box:before {
   opacity: 1; }
 .recent-projects .single-recent-project:hover .text-box h3,
