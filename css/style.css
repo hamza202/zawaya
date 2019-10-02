@@ -1,41 +1,4 @@
-/***************************************************************************************************************
-||||||||||||||||||||||||||||       MASTER STYLESHEET FOR Printify             ||||||||||||||||||||||||||||||||||
-****************************************************************************************************************
-||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
-****************************************************************************************************************
-****************************************************************************************************************
-* 1. imported styles 
-* 2. miscelnious styles 
-* 3. header styles 
-* 4. banner styles 
-* 5. welcome styles 
-* 6. what we do styles 
-* 7. brand styles 
-* 8. footer subscribe styles 
-* 9. footer styles 
-* 10. footer bottom styles 
-* 11. recent project styles 
-* 12. cta styles 
-* 13. testimonials styles 
-* 14. we belive carousel styles 
-* 15. faq section styles 
-* 16. team styles 
-* 17. services styles 
-* 18. video box styles 
-* 19. video box styles 
-* 20. contact styles 
-* 21. page title styles 
-* 22. about styles 
-* 23. blog styles 
-* 24. error 404 styles 
-* 25. pricing styles 
-* 26. sidebar styles 
-****************************************************************************************************************
-||||||||||||||||||||||||||||            End TABLE OF CONTENT                ||||||||||||||||||||||||||||||||||||
-****************************************************************************************************************/
-/************************** 
-* 1. imported styles 
-***************************/
+
 @import url('https://fonts.googleapis.com/css?family=Tajawal:400,700,900|Vibes&display=swap');
 @import url(bootstrap.min.css);
 @import url(bootstrap-select.min.css);
