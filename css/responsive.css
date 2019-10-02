@@ -279,7 +279,8 @@
 	.footer-bottom .pull-right {width: 100%;text-align: center;}
 	.price-feature-box {padding-bottom: 0px;}
 	.price-feature-box .price-feature {margin-bottom: 60px;}
-	.service-tab-box .tab-title li {width: 33.333333%;}
+	.service-tab-box .tab-title li {width: 33%;
+        margin-top: 10px;}
 	.sec-title.text-center p {max-width: 85%;}
 	.contact-section .contact-form-content {padding-left: 30px;padding-right: 30px;padding-top: 50px;padding-bottom: 50px;}
 	.service-style-two .service-content {padding-right: 0;}
@@ -316,7 +317,7 @@
 	.video-box .content a.video-btn {right: -25px;}
 	.footer-bottom .thm-container .copy-text p {line-height: 30px;margin-bottom: 15px;}
 	.service-style-two .unique-feature .content i {margin-top: 10px;margin-bottom: 8px;}
-	.service-tab-box .tab-title li {width: 49%;}
+	.service-tab-box .tab-title li {width: 49%; margin-top: 10px}
 	.footer-subscribe form.subscribe-form {padding-left: 20px;padding-right: 20px;}
 	.footer-subscribe form.subscribe-form input {min-width: 100%;margin-right: 0;margin-bottom: 25px;}
     .service-style-one .service-content .btn-box a.thm-btn {margin-right: 0;}
